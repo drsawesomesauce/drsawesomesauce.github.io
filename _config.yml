@@ -1,1 +1,6 @@
+title: The Drs. Awesomesauce
+logo: /logo.png
+description: A home page for House Awesomesauce and its researchers
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
